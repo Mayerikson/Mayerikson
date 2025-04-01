@@ -8,7 +8,7 @@
 - **Contato:**  
   📞 +55 21 977015496  
   📧 mayerikson@hotmail.com  
-  🔗 LinkedIn: [Mayerikson de Vasconcelos Pereira](https://www.linkedin.com/in/mayerikson-de-vasconcelos-pereira/)  
+  🔗 LinkedIn: [Mayerikson de Vasconcelos Pereira](https://www.linkedin.com/in/mayerikson/)  
   💼 Portfólio: [https://mayerikson.carrd.co/](https://mayerikson.carrd.co/)
 
 
