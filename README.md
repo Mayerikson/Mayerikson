@@ -20,7 +20,32 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Knime](https://img.shields.io/badge/Knime-00A65A?style=for-the-badge&logo=knime&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Competências Avançadas:
+- Análise de Dados
+- Visualização de Dados
+- Modelagem e Limpeza de Dados
+- Automação de Processos
+- Estatística
+
+### Linguagens e Frameworks:
+
+- Python (Pandas, NumPy)
+- SQL
+- MongoDB (NoSQL)
+- Google Cloud Platform (GCP)
+- Power BI
+- Power Apps
+- Power Automate
+
+### Outras Habilidades:
+- Cloud Computing
+- AED (Análise Econômica de Dados)
+- Bancos de Dados SQL e NoSQL
+- PySpark
+- Numpy
 
 ### Competências Avançadas:
 
@@ -36,4 +61,10 @@
 ## 🌐 Idiomas
 - **Inglês:** Intermediário
 - **Espanhol:** Intermediário
+
+
+
+
+
+
 
