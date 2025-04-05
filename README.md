@@ -42,7 +42,6 @@
 
 ### Outras Habilidades:
 - Cloud Computing
-- AED (Análise Econômica de Dados)
 - Bancos de Dados SQL e NoSQL
 - PySpark
 - Numpy
