@@ -22,6 +22,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FFCC00?style=for-the-badge&logo=knime&logoColor=000000)
+
 
 ### Competências Avançadas:
 - Análise de Dados
