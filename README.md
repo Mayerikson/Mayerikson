@@ -9,7 +9,7 @@ Analista de dados com sólida experiência em Business Intelligence, automação
 * 📚 Cursando Tecnologia da Informação na UNIBF (conclusão: dezembro/2025)
 * 💼 Experiência sólida como Analista de Regulação na UnitedHealth Group (Amil)
 * 📊 Especialista em Power BI, SQL avançado e análise de dados em saúde
-* 🚀 Portfólio público com projetos reais: [github.com/mayerikson](https://github.com/mayerikson)
+
 
 ## **📈 GitHub Stats**
 <!-- Você pode adicionar suas estatísticas do GitHub aqui -->
@@ -97,4 +97,4 @@ Vamos nos conectar? Entre em contato comigo! 📞💼✨
 📧 **Email:** [mayerikson@hotmail.com](mailto:mayerikson@hotmail.com)  
 🔗 **LinkedIn:** [Mayerikson de Vasconcelos Pereira](https://www.linkedin.com/in/mayerikson-de-vasconcelos-pereira)  
 💼 **GitHub:** [github.com/mayerikson](https://github.com/mayerikson)  
-📱 **WhatsApp:** +55 21 977015496
+
